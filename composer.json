@@ -1,0 +1,20 @@
+{
+  "name": "buy-altace-online/order Altace online",
+    "description": "no prescription next day delivery ativan",
+    "homepage": "http://e-pharmacy24.com/?q=Altace",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+       
+    ],
+    "autoload": {
+        "psr-4": {
+            "Altace\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "minimum-stability": "dev"
+}
